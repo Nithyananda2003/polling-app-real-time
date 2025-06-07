@@ -50,7 +50,7 @@ A modern, interactive polling application built with Next.js and Firebase that e
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Nithyananda2003/Real-Time-Polling-app.git
+   git clone https://github.com/Nithyananda2003/polling-app-real-time.git
    ```
 
 2. **Install dependencies**
